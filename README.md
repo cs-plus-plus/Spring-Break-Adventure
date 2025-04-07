@@ -1,10 +1,6 @@
-Sure! Here's the updated `.md` file with a **Spring Break Adventure** theme instead of the Halloween one:
-
----
-
 # 🌴 Spring Break Adventure Game - CS++ Code Sprint 🌞
 
-Welcome to the **Spring Break Adventure Game**! In this 90-minute code sprint, you and your team will build a sunny, text-based adventure game where players explore tropical destinations, encounter quirky characters, and collect exciting souvenirs along the way. Your goal is to create a playable game with clear, object-oriented code using arrays and ArrayLists.
+Welcome to the **Spring Break Adventure Game**! In this 3-day code sprint, you and your team will build a sunny, text-based adventure game where players explore tropical destinations, encounter quirky characters, and collect exciting souvenirs along the way. Your goal is to create a playable game with clear, object-oriented code using arrays and ArrayLists.
 
 ---
 
@@ -15,14 +11,14 @@ In this game, players will navigate through locations on a spring break getaway�
 ### Objective
 - **Design** and **implement** classes (`Location`, `Character`, `Item`, and `Player`).
 - **Use arrays/ArrayLists** to store and manage game elements.
-- Complete the game within **90 minutes**!
+- Complete the game within **3 class periods**!
 
 ---
 
 ## 👥 Teams and Sprint Structure
 
 - **Team Size**: 3-4 members  
-- **Time Limit**: 90 minutes  
+- **Time Limit**: 3 days 
 - **Roles**: Assign each team member a class or feature to work on (e.g., `Location`, `Character`, `Item`, `Player`, or Game Logic).
 
 ## 📜 Instructions
@@ -145,8 +141,6 @@ class Player {
 ## 🎉 Wrap-Up
 
 At the end of the sprint, each team will present their game. Highlight your spring break destinations, wild encounters, and anything unique or fun your team added to the experience.
-
-Enjoy coding, and happy spring break!
 
 ---
 
