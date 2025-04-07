@@ -30,6 +30,9 @@ In this game, players will navigate through locations on a spring break getawayâ
 
 ### 2. **Design the Classes**
 
+   - **SpringBreakAdventure Class**
+     - Methods: `main`
+     
    - **Location Class**
      - Properties: `name`, `description`, `items` (ArrayList<Item>), `connections` (ArrayList<Location>)
      - Methods: `addConnection(Location location)`, `addItem(Item item)`, `enterLocation()`
